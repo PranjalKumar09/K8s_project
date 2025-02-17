@@ -135,11 +135,11 @@ We welcome contributions! If you have suggestions or improvements for this proje
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/K8s_project.git
+   git clone https://github.com/PranjalKumar09/K8s_project.git
    ```
 3. **Create a branch**:
    ```bash
-   git checkout -b your-feature-branch
+   git checkout -b kr-feature
    ```
 4. **Make your changes** and commit them.
 5. **Push to your fork**:
